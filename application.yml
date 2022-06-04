@@ -20,4 +20,4 @@ microservice:
   pdt-service:
     endpoints:
       endpoint:
-        uri: http://PDT-SERVICE/product/productOrder    
+        uri: http://PDT-SERVICE/product/createProduct    
